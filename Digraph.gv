@@ -1,0 +1,12 @@
+// The TreeSong Table
+digraph {
+	x [label="Dot Цой - Дерево"]
+	a [label="Dot Я знаю, мое дерево не проживет и недели."]
+	b [label="Dot 1"]
+	c [label="Dot Я знаю, мое дерево в этом городе обречено."]
+	d [label="Dot 2"]
+	e [label="Dot Но я все свое время провожу рядом с ним:"]
+	f [label="Dot 3"]
+	g [label="Dot Мне все другие дела надоели..."]
+	h [label="Dot 4"]
+}
